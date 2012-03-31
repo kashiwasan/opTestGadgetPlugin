@@ -1,0 +1,7 @@
+memberLayoutTest:
+  caption:
+    ja_JP: "メンバーレイアウトテスト"
+  description:
+    ja_JP: "メンバーレイアウトのテストをします"
+  component: [testGadget, memberLayoutTest]
+

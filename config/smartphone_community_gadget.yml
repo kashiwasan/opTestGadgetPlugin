@@ -1,0 +1,7 @@
+communityLayoutTest:
+  caption:
+    ja_JP: "コミュニティレイアウトテスト"
+  description:
+    ja_JP: "コミュニティレイアウトのテストをします"
+  component: [testGadget, communityLayoutTest]
+

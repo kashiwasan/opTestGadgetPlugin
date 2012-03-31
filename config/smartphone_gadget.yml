@@ -1,0 +1,7 @@
+homeTest:
+  caption:
+    ja_JP: "ホームガジェットテスト"
+  description:
+    ja_JP: "ホームガジェットのテストをします"
+  component: [testGadget, homeLayoutTest]
+
